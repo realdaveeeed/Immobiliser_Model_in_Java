@@ -1,4 +1,4 @@
-package test.BodyControlModule;
+package BodyControlModule;
 
 import com.BodyControlModule.InstrumentCluster;
 import com.CanBus.CanBusMess;

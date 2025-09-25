@@ -1,4 +1,4 @@
-package test.EngineControlModule;
+package EngineControlModule;
 
 import static org.junit.jupiter.api.Assertions.*;
 import com.BodyControlModule.Key;

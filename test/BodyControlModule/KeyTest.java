@@ -1,4 +1,4 @@
-package test.BodyControlModule;
+package BodyControlModule;
 
 import com.BodyControlModule.Key;
 import com.Tools.Encrypt;
