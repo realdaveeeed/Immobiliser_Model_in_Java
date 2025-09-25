@@ -2,6 +2,21 @@
 ###### Készitette Fabriczius Dávid Ferenc
 
 Ez a program egy indításgátlót modellez. A modellezés tartalmaz kulcs egyeztetést, riasztót, illetve a különféle autóalkatrészek állapotát is ellenőrzi mielőtt az indítást engedné. 
+
+### 1. Klónozd a repót
+```bash
+git clone https://github.com/realdaveeeed/Immobiliser_Model_in_Java.git
+cd Immobiliser_Model_in_Java
+```
+### 2. Futtatás
+1. Nyisd meg az IntelliJ IDEA-t.
+2. Válaszd a **File → Open** menüpontot.
+3. Tallózd be a projekt gyökerét, majd kattints **Open**.
+4. A bal oldali projektstruktúrában kattints jobb gombbal a `src` mappára.
+5. Válaszd a **Mark Directory as → Sources Root** lehetőséget.
+6. Kattints jobb gombbal a com mappában lévő `Main.java` fájlra (ami tartalmazza a `main` metódust).
+7. `Run Main.main()`
+
 ## 1. Rendszerarchitektúra
 A különböző alkatrészek kommunikációjáért a CAN bus (kommunkációs sín) felel.
 
